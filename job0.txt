@@ -1,0 +1,1 @@
+Web interface (f0) : Hardware eventually fails. Software eventually works.
